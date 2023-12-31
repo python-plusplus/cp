@@ -28,6 +28,7 @@ int main() {
         v[i] = (k-prev);
         prev = k;
     }
+
     if (w == 1){
         cout << n;
         return 0;
